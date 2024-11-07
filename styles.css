@@ -15,4 +15,5 @@ img {
     display: flex;
     align-items: center;
     background-color: hsl(212, 45%, 89%);
+    font-weight: 400, 700;
 }
