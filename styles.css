@@ -4,6 +4,7 @@ p {
 
 body {
     font-family: Outfit, serif;
+    background-color: hsl(216, 15%, 48%);
 }
 
 img {
@@ -13,5 +14,5 @@ img {
 .qr_code {
     display: flex;
     align-items: center;
-    color: hsl(212, 45%, 89%);
+    background-color: hsl(212, 45%, 89%);
 }
