@@ -7,7 +7,7 @@ body {
 }
 
 .qr_code {
-    display: block;
+    display: flex;
     align-items: center;
     color: hsl(212, 45%, 89%);
 }
