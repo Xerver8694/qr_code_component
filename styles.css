@@ -5,3 +5,9 @@ p {
 body {
     font-family: Outfit, serif;
 }
+
+.qr_code {
+    display: block;
+    align-items: center;
+    color: hsl(212, 45%, 89%);
+}
