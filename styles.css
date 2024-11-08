@@ -1,6 +1,6 @@
 p {
     font-size: 15px;
-    color: hsl(218, 44%, 22%); 
+    color: hwb(217 67% 15%); 
     margin-top: 10px; 
     font-weight: 700;
 }
