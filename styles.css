@@ -8,8 +8,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100vh; /* Full height viewport */
-    margin: 0; /* Remove default body margin */
+    min-height: 100vh; 
+    margin: 0; 
 }    
     
 
@@ -24,7 +24,7 @@ img {
     background-color: hsl(212, 45%, 89%);
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Soft shadow for card effect */
-    max-width: 300px; /* Set a max width for better layout */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    max-width: 300px; 
     text-align: center;
 }
