@@ -21,7 +21,7 @@ A basic project to reinforce my learning of HTML and CSS and get some experience
 
 ### Screenshot
 
-![Screenshot 2024-11-08 at 06-37-25 QR Code Component](https://github.com/user-attachments/assets/67449506-fc61-4782-8aa7-44b32ac3a0a3)
+![Screenshot 2024-11-08 at 07-52-47 QR Code Component.png](https://github.com/user-attachments/assets/67449506-fc61-4782-8aa7-44b32ac3a0a3)
 
 
 ### Links
